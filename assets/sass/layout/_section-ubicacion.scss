@@ -1,0 +1,23 @@
+                                                .ubicacion {
+                                                background-color: $white;
+                                                .ubicacion__container {
+                                                    width: 100%;
+                                                    padding-top: 0;
+                                                    margin: 0;
+                                                    text-align: center;
+                                                    clear: both;
+                                                    color: #0000;
+                                                    &--title1 {
+                                                        font-family: $raleway;
+                                                        text-align: center;
+                                                        font-size: $medium;
+                                                        &--title2 {
+                                                            font-size: $medium;
+                                                        }
+                                                    }
+                                                }
+                                                .ubicacion__image {
+                                                    width: 10%;
+                                                    height: 100px;
+                                                    text-align: center;
+                                                }
