@@ -1,9 +1,8 @@
-.footer {
+.personas {
     width: 100%;
-    height: auto;
+    height: 700px;
     overflow: hidden;
-    background: $granite-gray;
-    // background: grey;
+    background: $white;
     &__container {
         width: 100%;
         height: auto;
@@ -12,12 +11,8 @@
         // background: green;
         overflow: hidden;
         text-align: center;
-    }
-    &__logo {
-        width: 150px;
-        height: auto;
-        overflow: hidden;
-        margin: 0 5;
-        // background: pink;
+        &--title {
+            color: $white;
+        }
     }
 }

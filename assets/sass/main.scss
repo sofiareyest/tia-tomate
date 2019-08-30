@@ -1,18 +1,14 @@
-
 @import 'abstracts/variables';
 @import 'abstracts/mixins';
-
-
 @import 'base/base';
 @import 'base/reset';
 @import 'base/typography';
-
 @import 'layout/header';
 @import 'layout/section-presentacion';
 @import 'layout/section-ubicacion';
 @import 'layout/section-nosotros';
 @import 'layout/forms';
 @import 'layout/footer';
-
+@import 'layout/nav';
 @import 'components/buttons';
 @import 'components/inputs';
